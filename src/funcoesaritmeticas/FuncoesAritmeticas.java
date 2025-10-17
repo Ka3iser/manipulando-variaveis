@@ -20,7 +20,7 @@ public class FuncoesAritmeticas {
         System.out.println(resto);
 
         //classe Math
-        double resultadoPow = Math.pow(5.0, 3.0);
+        double resultadoPow = Math.pow(2, 3);
 
         System.out.println(resultadoPow);
 
